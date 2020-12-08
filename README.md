@@ -1,16 +1,3 @@
 # Turtles
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The mobile application is simple, for every eco-friendly product bought the user will get a code from the brand which he/she can input in the app, and as soon as they do so their points increase. The user will level up as they engage in more eco-friendly activities and connect with their friends and see how they rank amongst their friends. The user can redeem these points for coupons and offers. The coupons and offers will be with our partner eco-friendly brands.
